@@ -233,3 +233,8 @@ request.post({
 
 
 欢迎关注我的公众号【node全栈】  ![](node全栈-公众号.png)
+
+
+参考
+
+- disque（ruby写的有很多，这是redis作者写的，https://github.com/antirez/disque）
